@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Do ogarnięcia.md",
-                "mode": "source",
+                "file": "Dni.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Do ogarnięcia.md",
+                "file": "Dni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Do ogarnięcia.md",
+                "file": "Dni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Do ogarnięcia.md"
+                "file": "Dni.md"
               }
             }
           }
@@ -161,12 +161,12 @@
   },
   "active": "8ff91052cf5d8a42",
   "lastOpenFiles": [
-    "Dni.md~",
     "Do ogarnięcia.md",
+    "Dni.md",
+    "Dni.md~",
     "Miasta.md",
     "4913",
     "Some notes.md",
-    "Dni.md",
     "Some notes.md~",
     "Komp.md"
   ]

@@ -10,4 +10,4 @@
  - [ ] Istambuł Miejsca turystyczne -> Ania
  - [ ] Istambuł Żaglówki -> Żaglówki
  - [ ] Nocleg Wiedeń -> Ania
- - [ ] Nocleg Zurish -> Grzesiek
+ - [ ] Nocleg Zurich -> Grzesiek
