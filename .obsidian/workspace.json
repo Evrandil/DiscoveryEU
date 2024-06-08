@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f1dc8c3649586868",
+        "id": "f0c02ec835266ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "20f87db7adf2c048",
+            "id": "be78d2442972d500",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dni.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ff91052cf5d8a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dni.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dni.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,10 +138,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ff91052cf5d8a42",
+  "active": "be78d2442972d500",
   "lastOpenFiles": [
-    "Do ogarnięcia.md",
     "Dni.md",
+    "Do ogarnięcia.md",
     "Dni.md~",
     "Miasta.md",
     "4913",
