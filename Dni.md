@@ -3,7 +3,7 @@
 
 
 Rezerwacja 4€
-Wa-wa -> Budapeszt-NYU
+Warszawa -> Budapeszt-NYU
 EC 131
 
 
@@ -60,4 +60,4 @@ Istambuł -> Zurich \(Samolot\)
 # 20 -> 21
 
 
-Zurish \(-> Wiedeń\) -> Wa-wa
+Zurish \(-> Wiedeń\) -> Warszawa
