@@ -1,11 +1,8 @@
-Praga
-Wiedeń
 Budapeszt
+Bukareszt
+
 Zagrzeb
 Belgrad
 Sofia
-Bukareszt
-
-
-
-Wa-wa -> Budapeszt-NYU
+Praga
+Wiedeń

@@ -11,6 +11,30 @@
             "id": "5bd0e4a07c0d55a1",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Some notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2766f9a388cc526a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Some notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf05f83597eac2c6",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
@@ -81,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Some notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Some notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Some notes.md"
+              }
             }
           }
         ]
@@ -139,5 +167,9 @@
     }
   },
   "active": "5bd0e4a07c0d55a1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Miasta.md",
+    "Some notes.md",
+    "Komp.md"
+  ]
 }
