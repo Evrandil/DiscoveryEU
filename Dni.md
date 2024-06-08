@@ -13,13 +13,13 @@ Budapeszt-Keleti -> Braszów
 # 11
 
 
-Braszów
+Braszów + nocleg
 
 
 # 12
 
 
-Braszów
+Braszów + nocleg
 
 
 # 13
@@ -30,6 +30,9 @@ International 1095
 International 463
 
 
+Sofia nocleg
+
+
 # 14
 
 
@@ -37,15 +40,14 @@ Sofia -> Istambuł
 Sofia Express
 
 
-# 15
+# <15;18>
 
 
-Istambuł [pętla] Ismir
-
-
-Istambuł -> 
-Selcuk
-Efez -> Ismir
+Istambuł
+|> Nocleg
+|> Samochód
+|> Miejsca turystyczne
+|> Żaglówki
 
 
 # 19
