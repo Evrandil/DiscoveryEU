@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "14e023b77cde9fa1",
+        "id": "f1dc8c3649586868",
         "type": "tabs",
         "children": [
           {
-            "id": "5bd0e4a07c0d55a1",
+            "id": "20f87db7adf2c048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2766f9a388cc526a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Some notes.md",
+                "file": "Dni.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "cf05f83597eac2c6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Some notes.md",
+                "file": "Dni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Some notes.md",
+                "file": "Dni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Some notes.md"
+                "file": "Dni.md"
               }
             }
           }
@@ -166,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5bd0e4a07c0d55a1",
+  "active": "20f87db7adf2c048",
   "lastOpenFiles": [
+    "Do ogarnięcia.md",
+    "Dni.md~",
     "Miasta.md",
+    "4913",
     "Some notes.md",
+    "Dni.md",
+    "Some notes.md~",
     "Komp.md"
   ]
 }

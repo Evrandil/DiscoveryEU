@@ -1,4 +1,4 @@
-# 1 Dzień
+# 10
 
 
 Rezerwacja 4€
@@ -6,32 +6,38 @@ Wa-wa -> Budapeszt-NYU
 EC 131
 
 
-Budapeszt-Keleti -> Bukareszt
+Budapeszt-Keleti -> Braszów
 347 DACIA
 
-# 3 Dzień
 
-Bukareszt
-
-
-# 3 Dzień
+# 11
 
 
-Bukareszt (-> Ruse) -> Sofia
+Braszów
+
+
+# 12
+
+
+Braszów
+
+
+# 13
+
+
+Bukareszt \(-> Ruse\) -> Sofia
 International 1095
 International 463
 
 
-
-# 4 Dzień
+# 14
 
 
 Sofia -> Istambuł
 Sofia Express
 
 
-
-# 5 Dzień
+# 15
 
 
 Istambuł [pętla] Ismir
@@ -40,4 +46,15 @@ Istambuł [pętla] Ismir
 Istambuł -> 
 Selcuk
 Efez -> Ismir
-Istambuł -> Zurich
+
+
+# 19
+
+
+Istambuł -> Zurich \(Samolot\)
+
+
+# 20 -> 21
+
+
+Zurish \(-> Wiedeń\) -> Wa-wa
